@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mobile Development: iOS - Swift"
+date:   2019-02-06 13:01:19 +0900
+categories: data science
+---
+
+Tôi tham gia và phát triển ứng dụng iOS từ 2018 sử dụng Swift
+- Đã phát triển và hoàn thiện 1 ứng dụng iOS

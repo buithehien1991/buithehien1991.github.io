@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Mobile Development: Android"
+date:   2019-02-06 15:01:19 +0900
+categories: data science
+---
+
+Tôi tự học và tham gia phát triển rất nhiều ứng dụng android từ năm 2012.
+- Mở lớp và tham gia giảng dạy trực tuyến cho các sinh viên năm 2012 (Android 1.5)
+- Tham gia lập trình ứng dụng cho nhiều công ty và đưa lên Google Play
+- Ứng dụng nổi bật: 
+    - Tăng tốc 3G (Với ~ 300.000 lượt tải về. Hiện tại không còn phù hợp đã gỡ xuống)
+    - [Toshiba Smart Home](https://play.google.com/store/apps/details?id=com.Toshiba.tvs.dev2.THING_16B) - Ứng dụng điều khiển nhà thông minh tương tự Google Home, Amazon Alexa
+    - Hơn 20 ứng dụng đọc báo/sách trên Google Play. Hiện tại còn [Đại Việt Sử Ký Toàn Thư](https://play.google.com/store/apps/details?id=com.viena.books.daivietsukytoanthu)
+    - Hơn 20 ứng dụng khác phát triển cho nhiều công ty khác nhau
