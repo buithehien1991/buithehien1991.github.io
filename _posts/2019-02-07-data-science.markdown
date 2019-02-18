@@ -12,3 +12,7 @@ categories: data science
 4. Coursera: [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
 
 ## Ứng dụng - Bài tập - Mini Project
+### Programming Language Detection
+- Description: Build model to detect programming language and micro-web for testing
+- Technical: ML with fastText and sklearn, Crawler data using BeautifulSoup and Selenium, Flask
+- Link: [GitHub](https://github.com/buithehien1991/CodeDetection)
