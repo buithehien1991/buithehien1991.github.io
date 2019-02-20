@@ -16,3 +16,16 @@ categories: data science
 - Description: Build model to detect programming language and micro-web for testing
 - Technical: ML with fastText and sklearn, Crawler data using BeautifulSoup and Selenium, Flask
 - Link: [GitHub](https://github.com/buithehien1991/CodeDetection)
+
+### Flowers / Dog breed Detection
+- Description: 
+  - Flowers: Daisy, Dandelion, Roses, Sunflowers, Tulips (Sample flowers from Tensorflow)
+  - Dog breed: 120 dog breeds (Data from Kaggle)
+- Technical: Tensorflow, Flask, Keras
+- Link: [GitHub](https://github.com/buithehien1991/ImageDetection)
+- General: Can use for detection all image idea.
+
+### Cần học thêm về
+- Google AI: BERT. Deep Learning in NLP
+- WordNet, Word2Vec, GloVe
+- Sound detection
