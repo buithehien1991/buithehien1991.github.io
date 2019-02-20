@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Big Data Experience"
+date:   2019-02-20 15:01:19 +0900
+categories: data science
+---
+
+### Experience
+- Working 2 years with Elasticsearch (1.x -> 6.x), Kibana, Logstash
+- 1 years with AWS: Create, Clone, Maintenance
+- Working 1 years with Full-Text search-engine FESS
+- Apache Hadoop, Spark
